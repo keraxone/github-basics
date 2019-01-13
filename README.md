@@ -1,2 +1,2 @@
 # github-basics
-new repozitory on github
+new repo on github
